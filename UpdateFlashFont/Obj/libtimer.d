@@ -1,0 +1,17 @@
+.\obj\libtimer.o: os\libtimer.c
+.\obj\libtimer.o: os\liblist.h
+.\obj\libtimer.o: .\User\inc\main.h
+.\obj\libtimer.o: .\User\inc\stm32f10x.h
+.\obj\libtimer.o: .\Core\core_cm3.h
+.\obj\libtimer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\libtimer.o: .\User\inc\system_stm32f10x.h
+.\obj\libtimer.o: .\User\inc\stm32f10x_conf.h
+.\obj\libtimer.o: .\FWlib\inc\stm32f10x_dma.h
+.\obj\libtimer.o: .\User\inc\stm32f10x.h
+.\obj\libtimer.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\libtimer.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\libtimer.o: .\FWlib\inc\stm32f10x_sdio.h
+.\obj\libtimer.o: .\FWlib\inc\misc.h
+.\obj\libtimer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\libtimer.o: os\libtimer.h
+.\obj\libtimer.o: .\System\inc\timer.h

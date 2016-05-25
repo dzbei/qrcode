@@ -1,0 +1,16 @@
+.\obj\diskio.o: Fatfs\src\diskio.c
+.\obj\diskio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\diskio.o: .\Fatfs\inc\diskio.h
+.\obj\diskio.o: .\Fatfs\inc\integer.h
+.\obj\diskio.o: .\HardWare\inc\sdcard.h
+.\obj\diskio.o: .\User\inc\stm32f10x.h
+.\obj\diskio.o: .\Core\core_cm3.h
+.\obj\diskio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\diskio.o: .\User\inc\system_stm32f10x.h
+.\obj\diskio.o: .\User\inc\stm32f10x_conf.h
+.\obj\diskio.o: .\FWlib\inc\stm32f10x_dma.h
+.\obj\diskio.o: .\User\inc\stm32f10x.h
+.\obj\diskio.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\diskio.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\diskio.o: .\FWlib\inc\stm32f10x_sdio.h
+.\obj\diskio.o: .\FWlib\inc\misc.h

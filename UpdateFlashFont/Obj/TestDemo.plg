@@ -1,0 +1,237 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\TestDemo\TestDemo\STM32-FD-SDCard-SDIO.uvproj
+Project File Date:  04/28/2016
+
+<h2>Output:</h2>
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(112): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(56): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+linking...
+Program Size: Code=26796 RO-data=340 RW-data=88 ZI-data=221192  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 2 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(112): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(56): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+linking...
+Program Size: Code=26784 RO-data=340 RW-data=88 ZI-data=221192  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 2 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(112): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(56): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+linking...
+Program Size: Code=26784 RO-data=340 RW-data=88 ZI-data=221192  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 2 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(114): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(58): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+linking...
+Program Size: Code=26980 RO-data=340 RW-data=88 ZI-data=221232  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 2 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(112): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(181): error:  #20: identifier "p" is undefined
+User\src\main.c(56): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+".\Obj\TestDemo.axf" - 1 Errors, 2 Warning(s).
+Target not created
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(112): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(56): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+linking...
+Program Size: Code=26964 RO-data=340 RW-data=88 ZI-data=221192  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 2 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(112): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(56): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+linking...
+Program Size: Code=27484 RO-data=340 RW-data=88 ZI-data=221192  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 2 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(112): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(56): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+linking...
+Program Size: Code=27928 RO-data=3000 RW-data=92 ZI-data=221196  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 2 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(112): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(269): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(56): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+linking...
+Program Size: Code=28024 RO-data=3000 RW-data=92 ZI-data=221196  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 3 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(112): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(270): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(56): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+linking...
+Program Size: Code=28040 RO-data=3000 RW-data=92 ZI-data=221196  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 3 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(112): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(270): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(56): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+linking...
+Program Size: Code=28036 RO-data=3000 RW-data=92 ZI-data=221196  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 3 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(112): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(188): warning:  #177-D: variable "i" was declared but never referenced
+User\src\main.c(189): warning:  #177-D: variable "name" was declared but never referenced
+User\src\main.c(56): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+User\src\main.c(106): warning:  #177-D: function "GetScanCodeName" was declared but never referenced
+User\src\main.c(147): warning:  #177-D: function "WriteScanCodeName" was declared but never referenced
+linking...
+Program Size: Code=24128 RO-data=3000 RW-data=92 ZI-data=220996  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 6 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(112): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(188): warning:  #177-D: variable "i" was declared but never referenced
+User\src\main.c(189): warning:  #177-D: variable "name" was declared but never referenced
+User\src\main.c(56): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+User\src\main.c(106): warning:  #177-D: function "GetScanCodeName" was declared but never referenced
+User\src\main.c(147): warning:  #177-D: function "WriteScanCodeName" was declared but never referenced
+linking...
+Program Size: Code=24116 RO-data=3072 RW-data=92 ZI-data=220996  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 6 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(112): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(188): warning:  #177-D: variable "i" was declared but never referenced
+User\src\main.c(189): warning:  #177-D: variable "name" was declared but never referenced
+User\src\main.c(56): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+User\src\main.c(106): warning:  #177-D: function "GetScanCodeName" was declared but never referenced
+User\src\main.c(147): warning:  #177-D: function "WriteScanCodeName" was declared but never referenced
+linking...
+Program Size: Code=24116 RO-data=3072 RW-data=92 ZI-data=220996  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 6 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(115): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(200): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(206): warning:  #177-D: variable "i" was declared but never referenced
+User\src\main.c(59): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+User\src\main.c(109): warning:  #177-D: function "GetScanCodeName" was declared but never referenced
+User\src\main.c(150): warning:  #177-D: function "WriteScanCodeName" was declared but never referenced
+linking...
+Program Size: Code=23676 RO-data=340 RW-data=88 ZI-data=220992  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 6 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(115): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(200): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(206): warning:  #177-D: variable "i" was declared but never referenced
+User\src\main.c(59): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+User\src\main.c(109): warning:  #177-D: function "GetScanCodeName" was declared but never referenced
+User\src\main.c(150): warning:  #177-D: function "WriteScanCodeName" was declared but never referenced
+linking...
+Program Size: Code=25656 RO-data=3300 RW-data=124 ZI-data=221796  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 6 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(115): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(200): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(206): warning:  #177-D: variable "i" was declared but never referenced
+User\src\main.c(59): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+User\src\main.c(109): warning:  #177-D: function "GetScanCodeName" was declared but never referenced
+User\src\main.c(150): warning:  #177-D: function "WriteScanCodeName" was declared but never referenced
+linking...
+Program Size: Code=24884 RO-data=3072 RW-data=112 ZI-data=221272  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 6 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(115): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(201): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(206): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(213): warning:  #177-D: variable "i" was declared but never referenced
+User\src\main.c(59): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+User\src\main.c(109): warning:  #177-D: function "GetScanCodeName" was declared but never referenced
+User\src\main.c(150): warning:  #177-D: function "WriteScanCodeName" was declared but never referenced
+linking...
+Program Size: Code=24900 RO-data=3072 RW-data=112 ZI-data=221272  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 7 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(115): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(202): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(207): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(214): warning:  #177-D: variable "i" was declared but never referenced
+User\src\main.c(59): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+User\src\main.c(109): warning:  #177-D: function "GetScanCodeName" was declared but never referenced
+User\src\main.c(150): warning:  #177-D: function "WriteScanCodeName" was declared but never referenced
+linking...
+Program Size: Code=24916 RO-data=3072 RW-data=112 ZI-data=221272  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 7 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(115): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(194): warning:  #225-D: the format string ends before this argument
+User\src\main.c(202): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(207): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(214): warning:  #177-D: variable "i" was declared but never referenced
+User\src\main.c(59): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+User\src\main.c(109): warning:  #177-D: function "GetScanCodeName" was declared but never referenced
+User\src\main.c(150): warning:  #177-D: function "WriteScanCodeName" was declared but never referenced
+linking...
+Program Size: Code=24924 RO-data=3072 RW-data=112 ZI-data=221272  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 8 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(115): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(203): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(208): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(215): warning:  #177-D: variable "i" was declared but never referenced
+User\src\main.c(59): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+User\src\main.c(109): warning:  #177-D: function "GetScanCodeName" was declared but never referenced
+User\src\main.c(150): warning:  #177-D: function "WriteScanCodeName" was declared but never referenced
+linking...
+Program Size: Code=24928 RO-data=3072 RW-data=112 ZI-data=221272  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 7 Warning(s).
+Build target 'TestDemo'
+compiling main.c...
+User\src\main.c(115): warning:  #177-D: variable "FileSize" was declared but never referenced
+User\src\main.c(202): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(207): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "u8 *"
+User\src\main.c(214): warning:  #177-D: variable "i" was declared but never referenced
+User\src\main.c(59): warning:  #177-D: function "GetJPGMsg" was declared but never referenced
+User\src\main.c(109): warning:  #177-D: function "GetScanCodeName" was declared but never referenced
+User\src\main.c(150): warning:  #177-D: function "WriteScanCodeName" was declared but never referenced
+linking...
+Program Size: Code=24904 RO-data=3072 RW-data=112 ZI-data=221272  
+FromELF: creating hex file...
+".\Obj\TestDemo.axf" - 0 Errors, 7 Warning(s).

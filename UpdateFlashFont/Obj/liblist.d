@@ -1,0 +1,15 @@
+.\obj\liblist.o: os\liblist.c
+.\obj\liblist.o: os\liblist.h
+.\obj\liblist.o: .\User\inc\main.h
+.\obj\liblist.o: .\User\inc\stm32f10x.h
+.\obj\liblist.o: .\Core\core_cm3.h
+.\obj\liblist.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\liblist.o: .\User\inc\system_stm32f10x.h
+.\obj\liblist.o: .\User\inc\stm32f10x_conf.h
+.\obj\liblist.o: .\FWlib\inc\stm32f10x_dma.h
+.\obj\liblist.o: .\User\inc\stm32f10x.h
+.\obj\liblist.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\liblist.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\liblist.o: .\FWlib\inc\stm32f10x_sdio.h
+.\obj\liblist.o: .\FWlib\inc\misc.h
+.\obj\liblist.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

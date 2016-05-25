@@ -1,0 +1,16 @@
+.\obj\flash.o: HardWare\src\flash\flash.c
+.\obj\flash.o: .\HardWare\inc\flash.h
+.\obj\flash.o: .\User\inc\stm32f10x.h
+.\obj\flash.o: .\Core\core_cm3.h
+.\obj\flash.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\flash.o: .\User\inc\system_stm32f10x.h
+.\obj\flash.o: .\User\inc\stm32f10x_conf.h
+.\obj\flash.o: .\FWlib\inc\stm32f10x_dma.h
+.\obj\flash.o: .\User\inc\stm32f10x.h
+.\obj\flash.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\flash.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\flash.o: .\FWlib\inc\stm32f10x_sdio.h
+.\obj\flash.o: .\FWlib\inc\misc.h
+.\obj\flash.o: .\System\inc\delay.h
+.\obj\flash.o: .\HardWare\inc\spi.h
+.\obj\flash.o: .\FWlib\inc\stm32f10x_spi.h
